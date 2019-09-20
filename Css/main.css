@@ -1,0 +1,27 @@
+body{
+    height: 80vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#input-id{
+    padding: 10px;
+    margin-bottom: 10%;
+}
+
+.messages{
+    margin-right: 15px;
+}
+
+p{
+    display: block;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 8px 150px 8px 8px;
+
+
+
+}
+
